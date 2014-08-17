@@ -24,6 +24,6 @@ CREATE TABLE IF NOT EXISTS `users` (
 PRIMARY KEY (`username`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
 
-INSERT INTO `users` VALUES ('wsuser', 'wspassword');
+INSERT INTO `users` VALUES ('wsuser', '5ebe2294ecd0e0f08eab7690d2a6ee69'); # secret
 
-INSERT INTO `users` VALUES ('john_doe', 'secret');
+INSERT INTO `users` VALUES ('john_doe', '5ebe2294ecd0e0f08eab7690d2a6ee69');

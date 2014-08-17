@@ -3,5 +3,5 @@ messageRepetitions: 3
 database:
    driverClass: com.mysql.jdbc.Driver
    user: root
-   password: root123
+   password: 
    url: jdbc:mysql://localhost/phonebook
